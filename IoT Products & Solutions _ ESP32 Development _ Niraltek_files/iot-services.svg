@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172.402" height="172.402" viewBox="0 0 172.402 172.402">
+  <defs>
+    <filter id="Ellipse_2" x="0" y="0" width="172.402" height="172.402" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#52c41a" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1331" data-name="Group 1331" transform="translate(-189.54 -2620.389)">
+    <g transform="matrix(1, 0, 0, 1, 189.54, 2620.39)" filter="url(#Ellipse_2)">
+      <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="48.701" cy="48.701" r="48.701" transform="translate(37.5 37.5)" fill="#f6ffed"/>
+    </g>
+    <g id="timeline" transform="translate(256.26 2687.11)">
+      <g id="Group_15" data-name="Group 15" transform="translate(0)">
+        <path id="Path_618" data-name="Path 618" d="M18.254,0h-2.5V18.762H12v2.5h3.752V40.025h2.5v-7.5h3.752v-2.5H18.254V10.006h3.752V7.5H18.254Z" transform="translate(2.477)" fill="#52c41a"/>
+        <rect id="Rectangle_370" data-name="Rectangle 370" width="12.175" height="12.175" rx="1" transform="translate(26.786 2.967)" fill="#52c41a"/>
+        <rect id="Rectangle_371" data-name="Rectangle 371" width="12.175" height="12.175" rx="1" transform="translate(26.786 24.883)" fill="#52c41a"/>
+        <rect id="Rectangle_372" data-name="Rectangle 372" width="12.175" height="14.61" rx="1" transform="translate(0 12.707)" fill="#52c41a"/>
+      </g>
+    </g>
+  </g>
+</svg>
